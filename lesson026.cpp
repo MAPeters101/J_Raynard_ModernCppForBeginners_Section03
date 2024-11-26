@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+/*
 int main() {
 	int input;
 	std::cout << "Please enter a number\n";
@@ -17,3 +18,4 @@ int main() {
 	
 	return 0;
 }
+*/

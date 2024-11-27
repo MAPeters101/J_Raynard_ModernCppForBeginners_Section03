@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/*
 int main() {
 	int n{ 0 };
 	cin >> n;
@@ -21,9 +21,7 @@ int main() {
 		cout << "Two-eyed monster\n";
 	else
 		cout << "Many-eyed monster\n";
-	
-
 
 	return 0;
 }
-
+*/

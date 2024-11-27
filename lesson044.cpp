@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/*
 int main() {
 	const int i{ 3 };
 	int x{ 0 };
@@ -16,5 +16,5 @@ int main() {
 
 	return 0;
 }
-
+*/
 
